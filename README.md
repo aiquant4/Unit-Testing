@@ -24,3 +24,9 @@ Create a new directory called tests and add a test file, for example, `sum.test.
 mkdir tests
 touch tests/sum.test.js
 ```
+
+## Running Your Tests
+To run your tests, use the following command:
+```bash
+npm test
+```
